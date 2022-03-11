@@ -1,0 +1,7 @@
+COMANDOS BASICOS DO GIT
+
+git push oringin (main ou master) = empurrar para o repositorio
+git status = olhar o status  da pasta criada
+git add . = adicionar todas as auteracões
+git clone + (link) = clonar repositório do Github para o Git
+git commit -m "..." = dar o commit no github + mensagem
